@@ -123,12 +123,25 @@ for member in members:
     member.greet() if(member == n) else member.tell()
 ```
 ## Final Source Code:
+
+
 All right, folks, we have come to the end of this article. Your adventure started with a quick look at single inheritance and then we learned how to call superclass methods and properties easily with super() function.
+
+
 This is only the beginning of a very deep topic, full of more interesting features, however, we have tried to put together enough information to at least cover the basic starting point of this.
+
+
 Please find below the final source code for you guys to test it out and play with it. Please leave your comments with some other approaches or better solutions, to update the post if needed.
-**Last** but not least, If you are a **Python enthusiast**, I kindly invite you to take a look at my [Python and JavaScript](https://bit.ly/3p9hpqj) YouTube Channel tutorials and subscribe whenever possible to help our community grow.
+
+
+Last but not least, If you are a **Python enthusiast**, I kindly invite you to take a look at my [Python and JavaScript](https://bit.ly/3p9hpqj) YouTube Channel tutorials and subscribe whenever possible to help our community grow.
+
+
 I'd like to give a special shout-out to my sister **Kathya** for bringing Python to my head today. This event got me inspired to write this article after I spoke to hear about the beauty of this fantastic programming language.
+
+
 ---
+
 ```python
 # Represents any school member.
 class SchoolMember:
