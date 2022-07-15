@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: New Post Test 2 MD
-date: 2022-07-14T19:09:00.671Z
-thumbnail: /src/images/blog.png
+date: 2022-07-15T05:30:37.722Z
+thumbnail: /src/images/alvison-post.webp
 code:
   code: var x = 10
   lang: javascript
