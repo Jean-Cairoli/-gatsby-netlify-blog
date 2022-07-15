@@ -17,21 +17,10 @@ Indented code
     line 2 of code
     line 3 of code
 
+**Howdie, folks!** Today we are going to learn a bit about the vast world of **inheritance** from the realms of the Object Oriented Programming: Are you guys ready for this amazing adventure? If so, let's get ready to rumble, pals!
+## What is inheritance?
+Perhaps you are now thinking in that old grumpy auntie of yours that always pulled your cheeks when you were little and that recently passed away and left a fortune for some of her relatives. If that was your case, then let me tell you that we are going to talk about a different type of inheritance.
+In the programming world, inheritance allows us to define a class that could possibly and positively inherit all of the methods and properties from another class, usually called the parent.
 
 
 
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
